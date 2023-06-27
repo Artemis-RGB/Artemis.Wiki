@@ -2,7 +2,7 @@
 title: Plugins
 description: A collection of extra plugins available for Artemis
 published: true
-date: 2023-05-27T21:25:54.800Z
+date: 2023-06-27T03:24:42.638Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-20T10:19:34.997Z
@@ -40,7 +40,7 @@ Modules add extra data to the data model. Some modules are tied to games or appl
 - [<i class="v-icon mdi mdi-discord"></i> Discord *Add Discord support with info like mic status, notifications and more* *diogotr7*](/guides/user/plugins/discord)
 - [<i class="v-icon mdi mdi-spotify"></i> Spotify *Add Spotify support with playing track information including colors* *diogotr7*](https://nightly.link/diogotr7/Artemis.Plugins/workflows/dotnet-core/master/Spotify)
 - [![](https://raw.githubusercontent.com/Cheerpipe/Artemis.Plugins.Public/master/src/Modules/Artemis.Plugins.Modules.FallGuys/FallGuys.svg =20x) Fall Guys *Add support for Mediatonic's Fall Guys game* *Cheerpipe*](https://nightly.link/Cheerpipe/Artemis.Plugins.Public/workflows/plugins/master/Artemis.Plugins.Modules.FallGuys)
-- [![](https://raw.githubusercontent.com/AlpacaFur/Artemis.CSGO/main/Artemis.CSGO/csgo-logo.svg =23x) CS:GO *Add support for Counter Strike: Global Offensive* *AlpacaFur*](https://github.com/AlpacaFur/Artemis.CSGO/releases)
+- [![](https://raw.githubusercontent.com/AlpacaFur/Artemis.CSGO/main/Artemis.CSGO/csgo-logo.svg =23x) CS:GO *Add support for Counter Strike: Global Offensive* *diogotr7*](https://nightly.link/Artemis-RGB/Artemis.Plugins.Games/workflows/build/master)
 - [![](https://raw.githubusercontent.com/AlpacaFur/Artemis.BDDiscord/main/Artemis.BDDiscord/BDDiscord.svg =24x) BetterDiscord *Add support for BetterDiscord (requires client mod)* *AlpacaFur*](https://github.com/AlpacaFur/Artemis.BDDiscord/releases)
 - [![](https://github.com/diogotr7/Artemis.Plugins/raw/master/src/Artemis.Plugins.Modules.LeagueOfLegends/LeagueOfLegendsIcon.svg =24x) League Of Legends *Add support for League of Legends* *diogotr7*](https://nightly.link/diogotr7/Artemis.Plugins/workflows/dotnet-core/master/League%20Of%20Legends)
 - [![](/vendors/logitech-logo.png =20x) LogiStats *Adds Logitech device data to model (battery, charging status, etc). Updates are pushed from LGHUB (requires Logitech GHUB)* *diogotr7 + th3an7*](https://nightly.link/th3an7/Artemis.Plugins.Modules.LogiStats/workflows/build/master/Artemis.Plugins.Modules.LogiStats)
