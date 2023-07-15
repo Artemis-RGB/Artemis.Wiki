@@ -2,7 +2,7 @@
 title: Hardware Monitoring
 description: Ways of using hardware monitoring data to create effects
 published: true
-date: 2023-05-27T21:24:06.413Z
+date: 2023-07-15T14:58:08.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T21:23:55.079Z
@@ -28,7 +28,7 @@ This is generally the best option, as it provides the most information and is th
 1. Download and install [HWiNFO64](https://www.hwinfo.com/download/)
 2. Run HWiNFO64 in the background
 3. Make sure the `Shared Memory Support` option is enabled in HWiNFO64 (Options -> Shared Memory)
-4. Download the [HWiNFO64 plugin](https://nightly.link/Artemis-RGB/Artemis.Plugins.HardwareMonitors/workflows/build/master/Aida64.zip)
+4. Download the [HWiNFO64 plugin](https://nightly.link/Artemis-RGB/Artemis.Plugins.HardwareMonitors/workflows/build/master/HWiNFO64.zip)
 5. Import the plugin into Artemis (Plugins -> Import Plugin)
 
 ### Usage
