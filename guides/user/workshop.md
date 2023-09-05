@@ -2,7 +2,7 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-05T14:24:50.069Z
+date: 2023-09-05T14:25:19.645Z
 tags: workshop, community, sharing
 editor: markdown
 dateCreated: 2023-09-05T14:15:49.542Z
@@ -18,17 +18,11 @@ To access the workshop, simply click on the Workshop menu entry in the sidebar. 
 
 When you've found something you like you can download the latest release, it'll automatically be installed for you.
 
-> You do not need an account to download things from the workshop.
-{.is-info}
+
 
 
 ## Available Content
 At the time of writing you're only able to submit and download profiles. Other kinds of submissions such as device layouts and plugins are planned.
-
-> While we'll try our best to moderate what's on the workshop, we cannot be held accountable for workshop contents.
-You are ofcourse always welcome to report innapropriate entries to us.
-{.is-warning}
-
 
 ## Becoming a Content Creator
 Anyone can add their submissions to the workshop and thereby become a creator.  All you have to do is create an account in Artemis and you're good to go!
@@ -39,6 +33,12 @@ We're hoping to see many of you add their own unique submissions :)
 - No (links to) piracy or any other illigal activities
 - In the end, we're the main judge and can decide whether or not something is appropriate for the workshop.
 
+> You do not need an account to download things from the workshop.
+{.is-info}
+
+> While we'll try our best to moderate what's on the workshop, we cannot be held accountable for workshop contents.
+You are ofcourse always welcome to report innapropriate entries to us.
+{.is-warning}
 
 # Future Plans
 The workshop is an evolving feature and we've left some things open to be decided based on user feedback and how things turn out over time. However, here are some of the things that are already planned.
