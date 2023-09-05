@@ -2,7 +2,7 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-05T14:15:49.542Z
+date: 2023-09-05T14:22:26.159Z
 tags: workshop, community, sharing
 editor: markdown
 dateCreated: 2023-09-05T14:15:49.542Z
@@ -39,6 +39,12 @@ We're hoping to see many of you add their own unique submissions :)
 # Future Plans
 The workshop is an evolving feature and we've left some things open to be decided based on user feedback and how things turn out over time. However, here are some of the things that are already planned.
 
+## Releases and updating
+One of the first things on the list is the ability to (auto)update the things you've previously downloaded from the workshop.  
+Most systems are already in place for this. 
+
+When you upload something to the workshop it's considered a release of that submission. If you then upload a new version (via your library) it's a new release of the same submission.
+
 ## Different kinds of content
 We're planning to add support for more kinds of content as we go along.
 
@@ -52,3 +58,13 @@ Eventually this'll also mean layouts no longer need to be bundled with plugins.
 
 ### Plugins
 Plugins are a major part of Artemis and we want the workshop to be the main distribution platform for them. Due to how powerful plugins are - they can basically do anything a locally running program can do - we're waiting with plugins to gain some experience in running the workshop.
+
+## Comments and voting
+We have plans to allow you to comment on workshop entries and give them either upvotes and downvotes or some kind of star rating.
+
+## Recommended entries
+Aside from fast installations, the main reason for the workshop to be in the application and not a website is so that we can offer deep integration with the rest of the application.
+
+One use of that is recommending entries to you based on which plugins you are using. 
+
+**An example**: You install a Minecraft integration plugin and Artemis will offer you some of the most popular profiles that make use of that plugin.
