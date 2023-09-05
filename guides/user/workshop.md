@@ -2,7 +2,7 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-05T14:24:11.864Z
+date: 2023-09-05T14:24:50.069Z
 tags: workshop, community, sharing
 editor: markdown
 dateCreated: 2023-09-05T14:15:49.542Z
@@ -17,6 +17,10 @@ Everything workshop related happens inside the Artemis desktop application.
 To access the workshop, simply click on the Workshop menu entry in the sidebar. From there you'll be taken to the welcome screen where you can navigate to different parts of the workshop.
 
 When you've found something you like you can download the latest release, it'll automatically be installed for you.
+
+> You do not need an account to download things from the workshop.
+{.is-info}
+
 
 ## Available Content
 At the time of writing you're only able to submit and download profiles. Other kinds of submissions such as device layouts and plugins are planned.
