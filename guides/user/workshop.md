@@ -2,7 +2,7 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-05T14:25:19.645Z
+date: 2023-09-05T14:25:43.845Z
 tags: workshop, community, sharing
 editor: markdown
 dateCreated: 2023-09-05T14:15:49.542Z
@@ -33,7 +33,7 @@ We're hoping to see many of you add their own unique submissions :)
 - No (links to) piracy or any other illigal activities
 - In the end, we're the main judge and can decide whether or not something is appropriate for the workshop.
 
-> You do not need an account to download things from the workshop.
+> You do not need an account to download things from the workshop, only to upload your own submissions.
 {.is-info}
 
 > While we'll try our best to moderate what's on the workshop, we cannot be held accountable for workshop contents.
