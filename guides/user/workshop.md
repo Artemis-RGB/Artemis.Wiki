@@ -2,7 +2,7 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-05T14:22:26.159Z
+date: 2023-09-05T14:24:11.864Z
 tags: workshop, community, sharing
 editor: markdown
 dateCreated: 2023-09-05T14:15:49.542Z
@@ -41,9 +41,10 @@ The workshop is an evolving feature and we've left some things open to be decide
 
 ## Releases and updating
 One of the first things on the list is the ability to (auto)update the things you've previously downloaded from the workshop.  
-Most systems are already in place for this. 
 
-When you upload something to the workshop it's considered a release of that submission. If you then upload a new version (via your library) it's a new release of the same submission.
+Most systems are already in place for this. When you upload something to the workshop it's considered a release of that submission. If you then upload a new version (via your library) it's a new release of the same submission.
+
+In the future users will be able to view different versions and update their installed version, either manually or automatically.
 
 ## Different kinds of content
 We're planning to add support for more kinds of content as we go along.
@@ -57,7 +58,11 @@ Eventually this'll also mean layouts no longer need to be bundled with plugins.
 
 
 ### Plugins
-Plugins are a major part of Artemis and we want the workshop to be the main distribution platform for them. Due to how powerful plugins are - they can basically do anything a locally running program can do - we're waiting with plugins to gain some experience in running the workshop.
+Plugins are a major part of Artemis and we want the workshop to be the main distribution platform for them. 
+
+Due to how powerful plugins are - they can basically do anything a locally running program can do - we're waiting with plugins to gain some experience in running the workshop.
+
+Unlike profiles plugins will first go through a review process before they are allowed into the workshop. This is to protect our users and keep things clean.
 
 ## Comments and voting
 We have plans to allow you to comment on workshop entries and give them either upvotes and downvotes or some kind of star rating.
