@@ -2,7 +2,7 @@
 title: The Official Artemis Wiki
 description: The perfect place to learn more about Artemis and its usage
 published: true
-date: 2023-09-09T20:45:04.851Z
+date: 2023-09-09T20:52:52.345Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-04T11:51:27.482Z
@@ -31,8 +31,9 @@ The recommended way to install these builds is using the [Artemis installer](htt
 ### Linux
 There is no graphical installer for Linux. The current recommended way to install Artemis on Linux is with the [install script](https://builds.artemis-rgb.com/binaries/install-artemis-rgb.sh).
 
-You can download and execute the script in one go with the following command.
+The script has been tested in a small amount of Linux installs, so feel free to review it before installing and contact the developers if you have issues or improvements to report.
 
+You can download and execute the script in one go with the following command:
 `curl -s -L https://builds.artemis-rgb.com/binaries/install-artemis-rgb.sh | bash`
 
 Alternatively, there are AUR and Flatpak packages available but they are not officially supported by the developers:
