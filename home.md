@@ -2,7 +2,7 @@
 title: The Official Artemis Wiki
 description: The perfect place to learn more about Artemis and its usage
 published: true
-date: 2021-01-15T20:38:04.093Z
+date: 2023-09-09T20:45:04.851Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-04T11:51:27.482Z
@@ -18,6 +18,7 @@ Right now Artemis 2 is in active development meaning some of the content on this
 [![Build Status](https://dev.azure.com/artemis-rgb/Artemis/_apis/build/status/Artemis%20Development%20build?repoName=Artemis-RGB%2FArtemis&branchName=master)](https://dev.azure.com/artemis-rgb/Artemis/_build/latest?definitionId=1&repoName=Artemis-RGB%2FArtemis&branchName=master)
 Every time a change is made to Artemis 2, a build is automatically created and uploaded. 
 
+### Windows
 The recommended way to install these builds is using the [Artemis installer](https://builds.artemis-rgb.com/binaries/Artemis.Installer.exe). 
 - The installer will always install the latest build
 - You can use the installer to update Artemis
@@ -27,6 +28,18 @@ The recommended way to install these builds is using the [Artemis installer](htt
 > This warning is because the installer is not digitally signed (doing so is very expensive).
 {.is-warning}
 
+### Linux
+There is no graphical installer for Linux. The current recommended way to install Artemis on Linux is with the [install script](https://builds.artemis-rgb.com/binaries/install-artemis-rgb.sh).
+
+You can download and execute the script in one go with the following command.
+
+`curl -s -L https://builds.artemis-rgb.com/binaries/install-artemis-rgb.sh | bash`
+
+Alternatively, there are AUR and Flatpak packages available but they are not officially supported by the developers:
+https://aur.archlinux.org/packages/artemisrgb-git
+
+Proper Artemis packages for Linux will be revisited once plugins can be downloaded directly from the workshop as this will make it easier to package.
+### Individual builds
 If you don't want to use the installer, you can browse the builds per branch [here](https://builds.artemis-rgb.com/binaries/).  
 The installer and the manual downloads both include all plugins from the [Artemis.Plugins repository](https://github.com/Artemis-RGB/Artemis.Plugins)
 
