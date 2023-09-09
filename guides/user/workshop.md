@@ -2,7 +2,7 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-05T14:25:43.845Z
+date: 2023-09-09T19:22:56.584Z
 tags: workshop, community, sharing
 editor: markdown
 dateCreated: 2023-09-05T14:15:49.542Z
@@ -18,8 +18,9 @@ To access the workshop, simply click on the Workshop menu entry in the sidebar. 
 
 When you've found something you like you can download the latest release, it'll automatically be installed for you.
 
-
-
+![image](https://i.imgur.com/Q6OPruM.png)
+![image](https://i.imgur.com/eQqSmBj.png)
+![image](https://i.imgur.com/9jW5GSK.png)
 
 ## Available Content
 At the time of writing you're only able to submit and download profiles. Other kinds of submissions such as device layouts and plugins are planned.
