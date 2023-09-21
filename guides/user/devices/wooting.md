@@ -2,7 +2,7 @@
 title: Wooting
 description: An overview of the Wooting support provided by the default Artemis Wooting plugin
 published: true
-date: 2023-09-21T00:48:09.894Z
+date: 2023-09-21T00:48:50.439Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-14T12:38:33.607Z
@@ -27,7 +27,7 @@ After installing, restart Artemis and the Analog Module should now work.
 <br>
 ## Linux
 
-On Debian-based distros of Linux, Wooting provides a `deb` package which is an easy to install method of getting the Wooting SDK and Pl
+On Debian-based distros of Linux, Wooting provides a `.deb` package which is an easy to install method of getting the Wooting SDK and Pl
 ugin installed.
 However if you aren't running a Debian-based distro, don't fret! It's not too difficult to get things working for your distro.
 
