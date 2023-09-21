@@ -2,7 +2,7 @@
 title: Wooting
 description: An overview of the Wooting support provided by the default Artemis Wooting plugin
 published: true
-date: 2023-09-21T00:44:32.459Z
+date: 2023-09-21T00:48:09.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-14T12:38:33.607Z
@@ -42,8 +42,8 @@ However if you aren't running a Debian-based distro, don't fret! It's not too di
 - Copy `<extracted folder>/wrapper/sdk/libwooting_analog_sdk.so` to `/usr/lib`. (Or to some directory and add that path to the `LD_LIBRARY_PATH` environment variable)
 - Copy `<extracted folder>/wrapper/sdk/libwooting_analog_sdk.so` to `/usr/lib`.
 - Copy `<extracted folder>/wrapper/sdk/libwooting_analog_plugin.so` to `/usr/local/share/WootingAnalogPlugins/wooting-analog-plugin`.
-- If the destination folder for the Wooting Analog Plugin does not exist, you can run the following:
-	`mkdir -p /usr/local/share/WootingAnalogPlugins/wooting-analog-plugin`
+- If the destination folder for the Wooting Analog Plugin does not exist, you can run the following (as root):
+	`sudo mkdir -p /usr/local/share/WootingAnalogPlugins/wooting-analog-plugin`
   
 Restart Artemis and the Analog Module should now work.
 <br>
@@ -62,7 +62,7 @@ Restart Artemis and the Analog Module should now work.
 - Additionally, you may need to adjust security settings for macOS to let it run. See the following [Apple Support Article (HT202491)](https://support.apple.com/en-ca/HT202491).
 - Copy `<extracted folder>/wrapper/sdk/libwooting_analog_plugin.so` to `/usr/local/share/WootingAnalogPlugins/wooting-analog-plugin`.
 - If the destination folder for the Wooting Analog Plugin does not exist, you can run the following:
-	`mkdir -p /usr/local/share/WootingAnalogPlugins/wooting-analog-plugin`
+	`sudo mkdir -p /usr/local/share/WootingAnalogPlugins/wooting-analog-plugin`
 
 Restart Artemis and the Analog Module should now work.
 <br>
