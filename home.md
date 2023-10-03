@@ -2,7 +2,7 @@
 title: The Official Artemis Wiki
 description: The perfect place to learn more about Artemis and its usage
 published: true
-date: 2023-09-09T20:52:52.345Z
+date: 2023-10-03T13:23:47.022Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-04T11:51:27.482Z
@@ -37,7 +37,8 @@ You can download and execute the script in one go with the following command:
 `curl -s -L https://builds.artemis-rgb.com/binaries/install-artemis-rgb.sh | bash`
 
 Alternatively, there are AUR and Flatpak packages available but they are not officially supported by the developers:
-https://aur.archlinux.org/packages/artemisrgb-git
+Flatpak: https://github.com/ProjectSynchro/com.artemis_rgb.Artemis
+AUR: https://aur.archlinux.org/packages/artemisrgb-git (Currently broken)
 
 Proper Artemis packages for Linux will be revisited once plugins can be downloaded directly from the workshop as this will make it easier to package.
 ### Individual builds
