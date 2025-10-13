@@ -2,7 +2,7 @@
 title: The Official Artemis Wiki
 description: The perfect place to learn more about Artemis and its usage
 published: true
-date: 2023-10-03T13:23:47.022Z
+date: 2025-08-29T04:19:10.365Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-04T11:51:27.482Z
@@ -19,30 +19,32 @@ Right now Artemis 2 is in active development meaning some of the content on this
 Every time a change is made to Artemis 2, a build is automatically created and uploaded. 
 
 ### Windows
-The recommended way to install these builds is using the [Artemis installer](https://builds.artemis-rgb.com/binaries/Artemis.Installer.exe). 
+The recommended way to install these builds is using the [Artemis installer](https://artemis-rgb.com/binaries/Artemis.Installer.exe). 
 - The installer will always install the latest build
 - You can use the installer to update Artemis
 - You don't need to download the installer to get a new version, just run it again
 
-> You may get a SmartScreen/virus warning but [the installer is virus free](https://www.virustotal.com/gui/url/be727416ede53be91294b7585481ca5b0cfa666e0976d092e842ae5c47b276ea/detection) and [so is Artemis](https://www.virustotal.com/gui/url/dbf58ed38266c13776f85743a392f6faf241d17ec16925fb7ea78b6ed6901f23/detection). 
+> You may get a SmartScreen/virus warning but [the installer is virus free](https://www.virustotal.com/gui/url/76024204cec2e930e9420b512d3cb2a2fddd16ed3a25cff06a391edcc1e4d5db/detection) and [so is Artemis](https://www.virustotal.com/gui/url/1528ee6e6ae0ba2f1686a093ff422a309068ada2ef49823535103486e35b7679/detection). 
 > This warning is because the installer is not digitally signed (doing so is very expensive).
 {.is-warning}
 
 ### Linux
-There is no graphical installer for Linux. The current recommended way to install Artemis on Linux is with the [install script](https://builds.artemis-rgb.com/binaries/install-artemis-rgb.sh).
+There is no graphical installer for Linux. The current recommended way to install Artemis on Linux is with the [install script](https://artemis-rgb.com/binaries/install-artemis-rgb.sh).
 
 The script has been tested in a small amount of Linux installs, so feel free to review it before installing and contact the developers if you have issues or improvements to report.
 
 You can download and execute the script in one go with the following command:
-`curl -s -L https://builds.artemis-rgb.com/binaries/install-artemis-rgb.sh | bash`
+`curl -s -L https://artemis-rgb.com/binaries/install-artemis-rgb.sh | bash`
 
 Alternatively, there are AUR and Flatpak packages available but they are not officially supported by the developers:
-Flatpak: https://github.com/ProjectSynchro/com.artemis_rgb.Artemis
-AUR: https://aur.archlinux.org/packages/artemisrgb-git (Currently broken)
+Flatpak: https://codeberg.org/Synchro/com.artemis_rgb.Artemis
+AUR: https://aur.archlinux.org/packages/artemisrgb-git
 
 Proper Artemis packages for Linux will be revisited once plugins can be downloaded directly from the workshop as this will make it easier to package.
+
+LINUX USERS NOTE: Some effects/brushes in Artemis may not function until/unless you add your user account to the *INPUT* usergroup. This allows Artemis/OpenRGB to read key presses for reactive effects.
 ### Individual builds
-If you don't want to use the installer, you can browse the builds per branch [here](https://builds.artemis-rgb.com/binaries/).  
+If you don't want to use the installer, you can browse the builds for Windows [here](https://artemis-rgb.com/releases/windows) and Linux [here](https://artemis-rgb.com/releases/linux).  
 The installer and the manual downloads both include all plugins from the [Artemis.Plugins repository](https://github.com/Artemis-RGB/Artemis.Plugins)
 
 ## Getting started

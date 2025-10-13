@@ -2,7 +2,7 @@
 title: Local REST API
 description: An overview of the local REST API offered by Artemis
 published: true
-date: 2021-06-24T08:05:41.981Z
+date: 2025-02-16T15:57:52.379Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-29T19:34:25.219Z
@@ -17,34 +17,62 @@ In order to access the API you need to find out on which port the API is listeni
 Artemis stores the full API URL including the current port in a text file found in `%ProgramData%/Artemis/webserver.txt`
 A sample value: `http://localhost:9696/`
 
-> Without NAT the API can only be accessed from the same network, remote access is not possible.
+> By default the API can only be accessed locally, remote access can be enabled in Settings > General > Web server > Remote access.
 {.is-warning}
 
 
 # Built-in APIs
 Except for the remote control API, these are all provided by the Artemis Web API plugin.
 The APIs provided by the plugin are implemented as separate plugin features which means they can be disabled.
+
 ## Remote control
-`POST` `remote/bring-to-foreground`
-`POST` `remote/restart`
-`POST` `remote/shutdown`
-> These cannot be disabled as they are used by the UI to talk to duplicate instances of Artemis.
-{.is-info}
+THe remote control API provides limited control over the application via POST calls.
+| Method | Endpoint                     | Description                      | Body                                              | Body Type    |
+| ------ | ---------------------------- | -------------------------------- | ------------------------------------------------- | ------------ |
+| POST   | `remote/bring-to-foreground` | Brings Artemis to the foreground | An optional route to view                         | string       |
+| POST   | `remote/restart`             | Restarts Artemis                 | The command line args to pass to the new instance | string array |
+| POST   | `remote/shutdown`            | Shuts down Artemis               | -                                                 | -            |
 
 ## Plugins
-`GET` `plugins/endpoints`
-`GET` `plugins/endpoints/{plugin}/{endPoint}`
+The plugins API allows you to view and call plugin endpoints. It can be used to push external state to your plugin.
+| Method | Endpoint                                | Description                        |
+| ------ | --------------------------------------- | ---------------------------------- |
+| GET    | `plugins/endpoints`                     | List all the available endpoints   |
+| GET    | `plugins/endpoints/{plugin}/{endPoint}` | List the properties of an endpoint |
 
 ## Profiles
-`GET` `profiles`
-`GET` `profiles/categories`
-`POST` `profiles/suspend/{profileId}` - include form data `suspend` `true` or `false`
+The profiles API allows control over profile states
+| Method | Endpoint                       | Description                                   | Body                         | Body Type             |
+| ------ | ------------------------------ | --------------------------------------------- | ---------------------------- | --------------------- |
+| GET    | `profiles`                     | List all profiles of the user                 | -                            | -                     |
+| GET    | `profiles/categories`          | List all the categories of the user           | -                            | -                     |
+| POST   | `profiles/suspend/{profileId}` | Toggles suspension of the provided profile ID | `suspend`: `true` or `false` | x-www-form-urlencoded |
 
 ## Data model
-`GET` `data-model`
-> Dynamic data models are not yet supported
-{.is-info}
+The data model API allows you to read the data model 
+| Method | Endpoint     | Description                |
+| ------ | ------------ | -------------------------- |
+| GET    | `data-model` | Gets the entire data model |
 
+> Dynamic data models are not yet supported
+> {.is-info}
+
+## JSON modules
+The JSON modules API allows you to create Artemis modules without the need of a plugin.  
+Simply POSTing a [JSON schema](https://json-schema.org/) to this endpoint creates a new module in Artemis. You can than POST JSON to that module to update it, making external data available in the data model.
+
+Learn more on the [dedicated JSON modules page](/guides/developer/json-modules).
+
+| Method | Endpoint                         | Description                                                   | Body              | Body Type |
+| ------ | -------------------------------- | ----------------------------------------------------------    | ----------------- | --------- |
+| GET    | `json-modules`                   | Gets all registered JSON modules and their schema             | -                 | -         |
+| POST   | `json-modules/{moduleId}/schema` | Updates or registers a new module with the provided module ID | The JSON schema   | JSON      |
+| POST   | `json-modules/{moduleId}/data`   | Applies the provided JSON to the module matching module ID    | The data to apply | JSON      |
+
+
+
+> Make sure you pick a unique module ID but don't change it later, the ID will get stored in profiles that point to your JSON module.
+> {.is-info}
 
 # Using plugin end points
 You can get a list of all plugin end points by calling `plugins/endpoints`. 

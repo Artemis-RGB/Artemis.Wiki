@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: A good place to find answers to some of the most common questions
 published: true
-date: 2023-03-15T20:46:33.906Z
+date: 2025-02-16T20:37:15.896Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-04T14:55:01.766Z
@@ -11,11 +11,6 @@ dateCreated: 2020-11-04T14:55:01.766Z
 On this page we'll try to answer some of the most frequently asked questions. If your question is not answered here or you'd like further elaboration, feel free to reach out to us on [Discord](https://discord.gg/S3MVaC9).
 
 # General
-## Q: What is the release window for Artemis 2?
-**A:** Right now it's hard to say. You can already use Artemis 2 if all you want are simple brushes and animations without any game interaction.  
-
-However, the plan is to create some kind of beta release with things like a proper installer and auto-update before work on the workshop starts, early 2021.
-
 ## Q: Who creates Artemis 2?
 **A:** The core systems, UI and default plugins are developed by [Robert](https://github.com/RobertBeekman) and I'm also writing this page!  
 Aside from that Artemis relies heavily on [RGB.NET](https://github.com/DarthAffe/RGB.NET) by [DarthAffe](https://github.com/DarthAffe), who also has done some work on Artemis and provided a lot of behind the scenes feedback. 

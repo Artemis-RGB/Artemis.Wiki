@@ -2,7 +2,7 @@
 title: Plugins
 description: A collection of extra plugins available for Artemis
 published: true
-date: 2023-06-27T03:24:42.638Z
+date: 2023-06-27T03:24:53.336Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-20T10:19:34.997Z

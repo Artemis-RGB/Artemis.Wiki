@@ -2,7 +2,7 @@
 title: Remote Control Brush
 description: A guide on how to use the web API offered by the remote control brush
 published: true
-date: 2021-06-24T07:51:34.242Z
+date: 2024-02-27T20:35:09.235Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T21:03:44.293Z
@@ -28,14 +28,12 @@ A response might look like this
 ```json
 [
     {
-        "$id": "1",
         "ProfileId": "e3cad4e0-2b10-4644-8f7a-ee1ed11f1490",
         "ProfileName": "My amazing profile",
         "LayerId": "4896ee13-4c1b-4462-bf4b-78d0fb30472d",
         "LayerName": "New layer"
     },
     {
-        "$id": "2",
         "ProfileId": "67594022-586b-4edc-8e26-ae19fc072149",
         "ProfileName": "Another amazing profile",
         "LayerId": "d70883c3-3712-47af-a69c-7f1ce857d39f",
@@ -51,59 +49,48 @@ You can get the colors on a per-brush basis by providing the brush ID
 A response might look like this
 ```json
 {
-    "$id": "1",
     "ProfileId": "67594022-586b-4edc-8e26-ae19fc072149",
     "ProfileName": "Another amazing profile",
     "LayerId": "d70883c3-3712-47af-a69c-7f1ce857d39f",
     "LayerName": "New layer",
     "LedColors": [
         {
-            "$id": "2",
             "LedId": "Keyboard_1",
             "Color": "#00000000"
         },
         {
-            "$id": "3",
             "LedId": "Keyboard_2",
             "Color": "#00000000"
         },
         {
-            "$id": "4",
             "LedId": "Keyboard_3",
             "Color": "#00000000"
         },
         {
-            "$id": "5",
             "LedId": "Keyboard_4",
             "Color": "#00000000"
         },
         {
-            "$id": "6",
             "LedId": "Keyboard_5",
             "Color": "#00000000"
         },
         {
-            "$id": "7",
             "LedId": "Keyboard_6",
             "Color": "#00000000"
         },
         {
-            "$id": "8",
             "LedId": "Keyboard_7",
             "Color": "#00000000"
         },
         {
-            "$id": "9",
             "LedId": "Keyboard_8",
             "Color": "#00000000"
         },
         {
-            "$id": "10",
             "LedId": "Keyboard_9",
             "Color": "#00000000"
         },
         {
-            "$id": "11",
             "LedId": "Keyboard_0",
             "Color": "#00000000"
         }

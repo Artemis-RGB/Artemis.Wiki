@@ -2,7 +2,7 @@
 title: Introduction to Artemis development
 description: An overview of the guides that'll teach you how to develop plugins for Artemis
 published: true
-date: 2023-07-21T09:12:28.119Z
+date: 2024-03-28T10:20:38.019Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T14:55:10.385Z
@@ -12,7 +12,7 @@ dateCreated: 2020-12-01T14:55:10.385Z
 Welcome to the developers section of the Artemis wiki. These articles will serve as a way to help you understand the different types of plugins, the Artemis API and (basic) Artemis internals.
 
 To kind of get an idea of how Artemis is built, these are the technologies we employ.
-- ![](/guides/developer/net_core_logo.svg =24x){.mr-2} **.NET 7** - Artemis is written in C# and so .NET is our main framework. Artemis will try to stay up to date with the latest .NET.
+- ![](/guides/developer/net_core_logo.svg =24x){.mr-2} **.NET 8** - Artemis is written in C# and so .NET is our main framework. Artemis will try to stay up to date with the latest .NET.
 - ![](/guides/developer/skia_project_logo.svg =24x){.mr-2} **Skia** - Rendering engine used via SkiaSharp. This is the same engine as the one used in Chrome and Xamarin.
 - ![](/guides/developer/rgb-net-icon.png =24x){.mr-2} **RGB.</span>NET** - The RGB library used to create a layer of abstraction between Artemis and the many different RGB devices.
 - ![](/guides/developer/avalonia-white-purple.svg =24x){.mr-2} **Avalonia** - A cross platform UI library.

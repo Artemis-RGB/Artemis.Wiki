@@ -2,7 +2,7 @@
 title: Markdown
 description: A introductory guide to Markdown
 published: true
-date: 2023-09-02T19:21:14.563Z
+date: 2023-09-02T19:21:23.937Z
 tags: guide, markdown
 editor: markdown
 dateCreated: 2023-09-02T19:21:14.563Z

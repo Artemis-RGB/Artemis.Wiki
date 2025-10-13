@@ -2,7 +2,7 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-09T19:23:25.430Z
+date: 2023-09-09T19:23:27.872Z
 tags: workshop, community, sharing
 editor: markdown
 dateCreated: 2023-09-05T14:15:49.542Z
