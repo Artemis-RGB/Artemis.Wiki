@@ -45,6 +45,9 @@ To help you easily differentiate your profiles you can pick an icon. Artemis mak
 
 If you want you can also pick a custom icon either based on a **bitmap image** (such as PNG, JPEG) by changing the **Icon type**. Artemis doesn't currently enforce a filesize on the icon, so be sure not to pick a giant wallpaper. ;)
 
+### Blend mode
+The blend mode decides how your profile mixes with the profiles below it in the sidebar. By default a profile simply draws on top, but you can use it to for example tint all your other profiles. See the [blend modes guide](/guides/user/profiles/layers/blend-modes#blend-modes-on-profiles) for examples.
+
 ### Hotkeys
 Hotkeys are used to quickly suspend/unsuspend your profile with the press of a button. These hotkeys work even when Artemis is running in the background.
 
