@@ -2,10 +2,10 @@
 title: Plugins
 description: A collection of extra plugins available for Artemis
 published: true
-date: 2023-06-27T03:24:53.336Z
+date: 2025-10-13T08:50:21.241Z
 tags: 
 editor: markdown
-dateCreated: 2021-08-20T10:19:34.997Z
+dateCreated: 2025-10-12T16:21:22.195Z
 ---
 
 Artemis is built up using plugins. This means devices, brushes, effects and modules (for supporting games!) can all be added via plugins.

@@ -2,10 +2,10 @@
 title: Particle Brush
 description: A guide explaining how to get the most out of the particle brush
 published: true
-date: 2021-03-31T10:57:20.373Z
+date: 2025-10-13T08:51:17.184Z
 tags: 
 editor: markdown
-dateCreated: 2021-03-31T10:40:29.227Z
+dateCreated: 2025-10-12T16:22:55.012Z
 ---
 
 # Custom path

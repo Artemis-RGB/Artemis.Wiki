@@ -2,10 +2,10 @@
 title: Scripting
 description: A guide on how to use scripts to customize Artemis profiles
 published: true
-date: 2024-03-27T10:12:54.551Z
+date: 2025-10-13T08:51:12.343Z
 tags: 
 editor: markdown
-dateCreated: 2021-06-19T12:56:42.863Z
+dateCreated: 2025-10-12T16:22:46.782Z
 ---
 
 > Scripting is not a widely supported feature, we recommend you use the [node system](/guides/user/profiles/nodes) instead

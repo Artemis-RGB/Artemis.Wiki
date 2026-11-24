@@ -2,10 +2,10 @@
 title: Wooting
 description: An overview of the Wooting support provided by the default Artemis Wooting plugin
 published: true
-date: 2023-09-21T00:48:52.921Z
+date: 2025-10-13T08:50:52.896Z
 tags: 
 editor: markdown
-dateCreated: 2023-04-14T12:38:33.607Z
+dateCreated: 2025-10-12T16:22:14.406Z
 ---
 
 # Introduction

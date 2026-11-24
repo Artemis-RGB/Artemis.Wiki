@@ -2,10 +2,10 @@
 title: Wrapper Plugins Guide
 description: Instructions on how to use Wrapper plugins for game integrations
 published: true
-date: 2022-03-22T07:55:24.445Z
+date: 2025-10-13T08:51:04.319Z
 tags: 
 editor: markdown
-dateCreated: 2022-01-25T00:46:56.223Z
+dateCreated: 2025-10-12T16:22:33.470Z
 ---
 
 # Wrapper Plugins

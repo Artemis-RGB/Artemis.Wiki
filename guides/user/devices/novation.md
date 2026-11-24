@@ -2,10 +2,10 @@
 title: Novation
 description: An overview of the Novation support provided by the default Artemis Novation plugin
 published: true
-date: 2023-04-14T12:34:36.094Z
+date: 2025-10-13T08:50:44.872Z
 tags: 
 editor: markdown
-dateCreated: 2023-04-14T12:34:33.804Z
+dateCreated: 2025-10-12T16:21:59.939Z
 ---
 
 # Introduction

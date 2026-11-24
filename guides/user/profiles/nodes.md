@@ -2,10 +2,10 @@
 title: Nodes System
 description: An introduction page to Artemis's visual node scripting system
 published: true
-date: 2023-02-12T15:52:14.727Z
+date: 2025-10-13T08:51:10.786Z
 tags: 
 editor: markdown
-dateCreated: 2022-08-20T16:54:39.861Z
+dateCreated: 2025-10-12T16:22:44.021Z
 ---
 
 **Looking for something more specific?**

@@ -2,10 +2,10 @@
 title: Device layouts
 description: A guide on creating layouts for your devices
 published: true
-date: 2021-07-26T07:31:35.499Z
+date: 2025-10-13T08:50:10.746Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-25T09:13:57.008Z
+dateCreated: 2025-10-12T16:21:05.171Z
 ---
 
 > Want to request a layout? Please create a request [here](https://github.com/Artemis-RGB/Artemis.Plugins/issues/new?assignees=&labels=layout-request&template=layout-request.md&title=%5BLayout+request%5D), someone may be willing to make one for you, but no guarantees!

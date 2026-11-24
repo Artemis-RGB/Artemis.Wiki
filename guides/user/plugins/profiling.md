@@ -2,10 +2,10 @@
 title: JetBrains Proflling Guide
 description: A guide explaining how to use the profiling plugin to debug memory/CPU usage problems
 published: true
-date: 2021-11-21T19:09:20.323Z
+date: 2025-10-13T08:51:01.196Z
 tags: 
 editor: markdown
-dateCreated: 2021-11-06T11:55:05.381Z
+dateCreated: 2025-10-12T16:22:28.101Z
 ---
 
 # JetBrains Profiling

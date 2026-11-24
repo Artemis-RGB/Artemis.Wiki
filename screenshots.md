@@ -2,10 +2,10 @@
 title: Artemis screenshots
 description: A collection of work in progress screenshots
 published: true
-date: 2022-10-06T18:41:54.374Z
+date: 2025-10-13T08:49:55.422Z
 tags: 
 editor: markdown
-dateCreated: 2021-04-26T14:56:55.813Z
+dateCreated: 2025-10-12T16:20:43.982Z
 ---
 
 ## Work in progress screenshots

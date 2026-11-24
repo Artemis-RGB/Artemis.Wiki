@@ -2,10 +2,10 @@
 title: Local REST API
 description: An overview of the local REST API offered by Artemis
 published: true
-date: 2025-02-16T15:57:52.379Z
+date: 2025-10-13T08:50:12.366Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-29T19:34:25.219Z
+dateCreated: 2025-10-12T16:21:08.169Z
 ---
 
 # Introduction

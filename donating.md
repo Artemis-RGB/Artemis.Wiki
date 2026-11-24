@@ -2,10 +2,10 @@
 title: Donating
 description: 
 published: true
-date: 2022-01-24T16:10:24.090Z
+date: 2025-10-13T08:49:49.124Z
 tags: 
 editor: markdown
-dateCreated: 2021-05-26T13:29:02.230Z
+dateCreated: 2025-10-12T16:20:32.995Z
 ---
 
 # Why consider donating

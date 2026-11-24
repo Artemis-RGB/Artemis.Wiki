@@ -2,10 +2,10 @@
 title: Remote Control Brush
 description: A guide on how to use the web API offered by the remote control brush
 published: true
-date: 2024-02-27T20:35:09.235Z
+date: 2025-10-13T08:50:34.210Z
 tags: 
 editor: markdown
-dateCreated: 2021-06-16T21:03:44.293Z
+dateCreated: 2025-10-12T16:21:41.413Z
 ---
 
 # Introduction

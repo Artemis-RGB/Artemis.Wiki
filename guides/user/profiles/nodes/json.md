@@ -2,10 +2,10 @@
 title: JSON node
 description: The help page of the JSON Node
 published: true
-date: 2024-02-28T20:15:36.720Z
+date: 2025-10-13T08:51:21.859Z
 tags: 
 editor: markdown
-dateCreated: 2024-02-25T11:17:41.229Z
+dateCreated: 2025-10-13T08:49:20.844Z
 ---
 
 # Introduction

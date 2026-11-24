@@ -1,11 +1,11 @@
 ---
 title: Guide - Using native game integrations on all devices
-description: Guide on how to get Razer Chroma, Logitech Lightsync, Alienware LightFx, etc. on other devices. 
+description: Guide on how to get Razer Chroma, Logitech Lightsync, Alienware LightFx, etc. on other devices.
 published: true
-date: 2022-01-25T00:46:58.842Z
+date: 2025-10-13T08:51:02.850Z
 tags: 
 editor: markdown
-dateCreated: 2022-01-24T21:54:32.791Z
+dateCreated: 2025-10-12T16:22:30.880Z
 ---
 
 # Guide - Using native game integrations on all devices

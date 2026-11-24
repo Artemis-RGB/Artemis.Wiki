@@ -2,10 +2,10 @@
 title: Devices
 description: A central place to find info on devices supported in Artemis through plugins
 published: true
-date: 2023-09-21T00:47:27.838Z
+date: 2025-10-13T08:50:15.633Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-18T08:10:43.986Z
+dateCreated: 2025-10-12T16:21:12.936Z
 ---
 
 You can click on each manufacturer to view more details on that manufacturer and get help troubleshooting.

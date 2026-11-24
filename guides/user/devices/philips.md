@@ -2,10 +2,10 @@
 title: Philips Hue
 description: An overview of the Philips Hue integration offered by the Hue plugin
 published: true
-date: 2020-11-18T08:40:07.901Z
-tags: philips hue, hue, plugin, device, data model expansion
+date: 2025-10-13T08:50:48.099Z
+tags: plugin, device, philips hue, hue, data model expansion
 editor: markdown
-dateCreated: 2020-11-17T19:34:05.875Z
+dateCreated: 2025-10-12T16:22:06.239Z
 ---
 
 # The Artemis Hue plugin

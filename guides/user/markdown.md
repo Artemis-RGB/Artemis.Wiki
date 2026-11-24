@@ -2,10 +2,10 @@
 title: Markdown
 description: A introductory guide to Markdown
 published: true
-date: 2023-09-02T19:21:23.937Z
+date: 2025-10-13T08:50:18.073Z
 tags: guide, markdown
 editor: markdown
-dateCreated: 2023-09-02T19:21:14.563Z
+dateCreated: 2025-10-12T16:21:15.608Z
 ---
 
 Source: https://github.com/darsaveli/Readme-Markdown-Syntax

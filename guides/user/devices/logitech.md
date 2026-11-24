@@ -2,10 +2,10 @@
 title: Logitech
 description: An overview of the Logitech support provided by the default Artemis Logitech plugin
 published: true
-date: 2023-03-05T09:20:35.484Z
+date: 2025-10-13T08:50:41.992Z
 tags: 
 editor: markdown
-dateCreated: 2021-03-14T09:26:59.032Z
+dateCreated: 2025-10-12T16:21:54.567Z
 ---
 
 # Introduction

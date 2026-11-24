@@ -2,10 +2,10 @@
 title: Surface
 description: A guide on what the surface is and how to set yours up correctly
 published: true
-date: 2023-04-01T23:58:19.384Z
+date: 2025-10-13T08:50:27.651Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-21T14:43:49.816Z
+dateCreated: 2025-10-12T16:21:33.157Z
 ---
 
 **Not what you're looking for?**

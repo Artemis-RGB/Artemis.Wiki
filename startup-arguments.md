@@ -2,10 +2,10 @@
 title: Startup arguments
 description: A list of startup arguments available to Artemis.UI.exe
 published: true
-date: 2023-03-03T12:37:38.278Z
+date: 2025-12-11T22:35:46.386Z
 tags: arguments, logging, plugin lock, elevation, command line, parameters
 editor: markdown
-dateCreated: 2021-02-03T09:40:20.734Z
+dateCreated: 2025-10-12T16:20:46.571Z
 ---
 
  ## How to use
@@ -26,3 +26,4 @@ dateCreated: 2021-02-03T09:40:20.734Z
 | `--disable-webserver`      | Disables the web server regardless of other settings                                                 | May be used to try and solve crashes on startup.                                                 |
 | `--pcmr`                   | Enables 60 FPS and 144 FPS option in settings menu                                                   | Included for fun/testing, almost no device will support this so it's **a waste of performance**. |
 | `--channel={channel}`      | Changes the update channel                                                                           | Not recommended unless asked to do so to test something, see [channels](/channels)               |
+| `--alt-login-callback`     | Listens on port 56789 instead of 57461 while logging in to the workshop                              | You can try this if port 57461 is in use, which we've seen the Nvidia app do                     |

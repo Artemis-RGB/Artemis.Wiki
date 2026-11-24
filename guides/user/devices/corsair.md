@@ -2,10 +2,10 @@
 title: Corsair
 description: An overview of the Corsair support provided by the default Artemis Corsair plugin
 published: true
-date: 2022-08-07T11:23:56.609Z
+date: 2025-10-13T08:50:38.852Z
 tags: corsair
 editor: markdown
-dateCreated: 2021-03-02T10:00:49.566Z
+dateCreated: 2025-10-12T16:21:49.391Z
 ---
 
 # Introduction

@@ -2,10 +2,10 @@
 title: Timeline
 description: This guide will explain how the timeline works during playback and while using the profile editor.
 published: true
-date: 2021-01-14T09:16:55.820Z
+date: 2025-10-13T08:51:13.864Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T09:10:24.858Z
+dateCreated: 2025-10-12T16:22:49.483Z
 ---
 
 **Looking for something more specific?**

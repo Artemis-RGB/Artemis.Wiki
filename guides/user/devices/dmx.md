@@ -2,10 +2,10 @@
 title: DMX Devices
 description: An overview of the DMX support provided by the default Artemis DMX plugin
 published: true
-date: 2023-04-14T12:29:38.359Z
+date: 2025-10-13T08:50:40.356Z
 tags: 
 editor: markdown
-dateCreated: 2023-04-14T12:29:36.127Z
+dateCreated: 2025-10-12T16:21:52.007Z
 ---
 
 # Introduction

@@ -2,10 +2,10 @@
 title: Sliding rainbow
 description: A walkthrough for creating the holy grail of RGB effects
 published: true
-date: 2021-02-05T20:29:02.641Z
+date: 2025-10-13T08:51:15.547Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T08:35:10.121Z
+dateCreated: 2025-10-12T16:22:52.264Z
 ---
 
 # Introduction

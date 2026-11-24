@@ -2,10 +2,10 @@
 title: OpenRGB
 description: A guide explaining what OpenRGB is and how to use it in combination with Artemis
 published: true
-date: 2021-08-20T10:34:28.917Z
+date: 2025-10-13T08:50:46.473Z
 tags: plugin, openrgb, device
 editor: markdown
-dateCreated: 2020-11-08T09:41:51.395Z
+dateCreated: 2025-10-12T16:22:03.332Z
 ---
 
 # OpenRGB in a nutshell

@@ -2,10 +2,10 @@
 title: Telemetry in Artemis
 description: A page detailing the telemetry Artemis gathers
 published: true
-date: 2021-07-05T12:47:24.515Z
+date: 2025-10-13T08:49:58.518Z
 tags: 
 editor: markdown
-dateCreated: 2021-07-05T10:58:31.609Z
+dateCreated: 2025-10-12T16:20:49.416Z
 ---
 
 > Telemetry is not currently included, this page is a draft

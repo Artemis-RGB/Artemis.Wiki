@@ -2,10 +2,10 @@
 title: JSON modules
 description: Adding modules to Artemis without a plugin
 published: true
-date: 2025-02-16T16:58:05.711Z
+date: 2025-10-13T08:50:09.014Z
 tags: 
 editor: markdown
-dateCreated: 2025-02-16T14:51:53.505Z
+dateCreated: 2025-10-13T08:49:02.407Z
 ---
 
 # JSON modules

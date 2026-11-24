@@ -2,10 +2,10 @@
 title: Hardware Monitoring
 description: Ways of using hardware monitoring data to create effects
 published: true
-date: 2023-07-15T14:58:16.062Z
+date: 2025-10-13T08:50:59.504Z
 tags: 
 editor: markdown
-dateCreated: 2023-05-27T21:23:55.079Z
+dateCreated: 2025-10-12T16:22:25.432Z
 ---
 
 # Hardware Monitoring

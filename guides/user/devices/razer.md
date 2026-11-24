@@ -2,10 +2,10 @@
 title: Razer
 description: An overview of the Razer support provided by the default Artemis Razer plugin
 published: true
-date: 2021-06-17T20:15:16.319Z
+date: 2025-10-13T08:50:49.788Z
 tags: device, razer
 editor: markdown
-dateCreated: 2021-01-25T15:16:31.741Z
+dateCreated: 2025-10-12T16:22:08.961Z
 ---
 
 # Introduction

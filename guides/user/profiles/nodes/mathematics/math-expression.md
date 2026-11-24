@@ -2,10 +2,10 @@
 title: Math Expression Node
 description: The help page for the math expression node
 published: true
-date: 2022-10-04T21:10:34.617Z
+date: 2025-10-13T08:51:23.684Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-04T21:03:40.768Z
+dateCreated: 2025-10-12T16:23:03.813Z
 ---
 
 # Introduction

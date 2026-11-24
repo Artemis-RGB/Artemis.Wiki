@@ -2,10 +2,10 @@
 title: Known issues
 description: Problems, bugs and missing features we are aware off
 published: true
-date: 2021-09-24T19:20:26.226Z
+date: 2025-10-13T08:49:53.862Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T09:32:21.958Z
+dateCreated: 2025-10-12T16:20:41.377Z
 ---
 
 # Introduction

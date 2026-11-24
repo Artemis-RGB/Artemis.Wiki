@@ -2,10 +2,10 @@
 title: Channels
 description: A guide on Artemis update channels
 published: true
-date: 2023-03-03T12:30:07.307Z
+date: 2025-10-13T08:49:47.559Z
 tags: 
 editor: markdown
-dateCreated: 2023-03-03T12:26:53.678Z
+dateCreated: 2025-10-12T16:20:30.442Z
 ---
 
 # Introduction

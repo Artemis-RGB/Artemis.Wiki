@@ -2,10 +2,10 @@
 title: Cooler Master
 description: An overview of the Cooler Master support provided by the default Artemis Cooler Master plugin
 published: true
-date: 2021-03-06T10:11:01.276Z
+date: 2025-10-13T08:50:37.313Z
 tags: cooler master, coolermaster
 editor: markdown
-dateCreated: 2021-03-06T10:10:26.925Z
+dateCreated: 2025-10-12T16:21:46.671Z
 ---
 
 # Introduction

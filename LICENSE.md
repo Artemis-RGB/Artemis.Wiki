@@ -1,3 +1,13 @@
+---
+title: LICENSE
+description: 
+published: true
+date: 2025-10-13T08:49:43.698Z
+tags: 
+editor: markdown
+dateCreated: 2025-10-12T16:20:24.239Z
+---
+
 # Attribution-NonCommercial-NoDerivatives 4.0 International
 
 > *Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.*

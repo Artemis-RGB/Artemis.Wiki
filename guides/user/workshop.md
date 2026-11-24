@@ -2,10 +2,10 @@
 title: Workshop
 description: An overview page of the workshop and its features
 published: true
-date: 2023-09-09T19:23:27.872Z
+date: 2025-10-13T08:50:29.258Z
 tags: workshop, community, sharing
 editor: markdown
-dateCreated: 2023-09-05T14:15:49.542Z
+dateCreated: 2025-10-12T16:21:35.873Z
 ---
 
 The Artemis Workshop is *the* place to share and find awesome creations.

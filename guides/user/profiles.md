@@ -2,10 +2,10 @@
 title: Profiles
 description: This guide will introduce profiles and walk you through the different elements of the editor, explaining in short what everything is used for.
 published: true
-date: 2023-04-01T23:58:19.384Z
+date: 2025-10-13T08:50:22.928Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-09T13:52:29.483Z
+dateCreated: 2025-10-12T16:21:24.877Z
 ---
 
 **Not what you're looking for?**
@@ -104,7 +104,7 @@ Because this guide is meant as an overview, we won't go into detail here but the
 In a new layer all settings are collapsed, you may expand them by clicking the <i class="v-icon mdi mdi-chevron-right"></i>-icon. Once you've done that you'll be shown all the settings within that category.
 
 By default a layer has 3 main categories
-- **<i class="v-icon mdi mdi-hammer-wrench"></i> General** - The most important property here is the **Brush type**. This determines what is actually shown in your layer. You'll also find the **Blend mode** here, which decides how the layer mixes with what's below it, see the [blend modes guide](/guides/user/profiles/layers/blend-modes).
+- **<i class="v-icon mdi mdi-hammer-wrench"></i> General** - The most important property here is the **Brush type**. This determines what is actually shown in your layer.
 - **<i class="v-icon mdi mdi-transit-connection-variant"></i> Transform** - These properties all allow you to change the shape of your layer. You can also manipulate these properties using the [transform tool](#toolbox).
 - **<i class="v-icon mdi mdi-brush"></i> Brush** - The third category contains all the properties of the brush you selected under general. These properties are different for every brush.
 

@@ -2,10 +2,10 @@
 title: Chroma Plugin Guide v1 05.2021
 description: Introduction on how to setup the Chroma Profiles in Artemis
 published: true
-date: 2021-05-22T15:58:19.971Z
+date: 2025-10-13T08:50:56.351Z
 tags: 
 editor: markdown
-dateCreated: 2021-05-19T20:32:57.660Z
+dateCreated: 2025-10-12T16:22:20.130Z
 ---
 
 This is a guide to help you get [Chroma Workshop Games](https://www2.razer.com/chroma-workshop-games) RGB lighting profiles to work within Artemis using the [Chroma Plugin](https://github.com/diogotr7/Artemis.Plugins).

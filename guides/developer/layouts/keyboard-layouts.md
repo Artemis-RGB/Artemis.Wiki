@@ -2,10 +2,10 @@
 title: Keyboard Layouts
 description: A brief explanation on physical and logical keyboard layouts
 published: true
-date: 2023-10-28T08:10:39.247Z
+date: 2025-10-13T08:50:31.097Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-28T08:09:47.703Z
+dateCreated: 2025-10-13T08:49:04.703Z
 ---
 
 # Keyboard layouts

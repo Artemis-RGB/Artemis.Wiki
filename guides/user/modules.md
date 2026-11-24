@@ -2,10 +2,10 @@
 title: Transformation Modes
 description: An in-depth explanation of the different transformation modes
 published: true
-date: 2023-04-01T23:58:18.327Z
+date: 2025-10-13T08:50:19.600Z
 tags: 
 editor: markdown
-dateCreated: 2023-04-01T23:58:08.341Z
+dateCreated: 2025-10-12T16:21:19.646Z
 ---
 
 # Introduction

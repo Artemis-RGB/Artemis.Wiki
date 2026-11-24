@@ -2,10 +2,10 @@
 title: Data Model Nodes
 description: The help page for the different data model nodes
 published: true
-date: 2023-02-12T17:35:18.697Z
+date: 2025-10-13T08:51:20.227Z
 tags: 
 editor: markdown
-dateCreated: 2023-02-12T17:13:30.249Z
+dateCreated: 2025-10-12T16:23:00.650Z
 ---
 
 # Introduction

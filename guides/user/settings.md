@@ -2,10 +2,10 @@
 title: Settings
 description: A guide detailing the different settings available in Artemis
 published: true
-date: 2022-09-06T11:32:02.988Z
+date: 2025-10-13T08:50:24.376Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T08:24:30.993Z
+dateCreated: 2025-10-12T16:21:27.756Z
 ---
 
 # Settings

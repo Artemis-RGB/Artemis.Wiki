@@ -2,10 +2,10 @@
 title: Conditions
 description: This guide explains what conditions are and what kind of conditions you can define to create layers that respond to conditions and events.
 published: true
-date: 2023-02-12T16:36:45.321Z
+date: 2025-10-13T08:51:06.077Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T09:09:05.456Z
+dateCreated: 2025-10-12T16:22:36.078Z
 ---
 
 **Not what you're looking for?**

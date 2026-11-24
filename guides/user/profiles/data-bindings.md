@@ -2,10 +2,10 @@
 title: Data bindings
 description: This guide explains what data bindings are and what kind of data bindings you can define to dynamically change the properties of folders and events.
 published: true
-date: 2020-12-22T09:14:38.898Z
+date: 2025-10-13T08:51:07.588Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T09:12:54.932Z
+dateCreated: 2025-10-12T16:22:38.802Z
 ---
 
 **Looking for something more specific?**

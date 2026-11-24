@@ -2,10 +2,10 @@
 title: Layers - Adaption Hints
 description: This guide explains what adaption hints are and how they help sharing profiles.
 published: true
-date: 2021-05-19T11:41:46.206Z
+date: 2025-10-13T08:51:18.748Z
 tags: profiles, layers, adaption hints, exporting, importing
 editor: markdown
-dateCreated: 2021-05-19T11:41:44.187Z
+dateCreated: 2025-10-12T16:22:57.675Z
 ---
 
 # Introduction

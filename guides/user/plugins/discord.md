@@ -2,10 +2,10 @@
 title: Discord Plugin Guide
 description: 
 published: true
-date: 2023-11-23T18:32:12.228Z
+date: 2025-10-13T08:50:57.939Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-28T21:31:32.449Z
+dateCreated: 2025-10-12T16:22:22.764Z
 ---
 
 # Discord Integration

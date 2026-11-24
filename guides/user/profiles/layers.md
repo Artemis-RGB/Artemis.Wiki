@@ -2,17 +2,16 @@
 title: Layers
 description: This guide explains what layers are and what they are used for.
 published: true
-date: 2021-05-19T11:41:47.014Z
+date: 2025-10-13T08:51:09.194Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-22T09:07:24.227Z
+dateCreated: 2025-10-12T16:22:41.393Z
 ---
 
 **Looking for something more specific?**
 - [Brushes](/guides/user/profiles/layers/brushes) - This guide explains what brushes are and how they are applied to layers.
 - [Effects](/guides/user/profiles/layers/effects) - This guide explains what effects are and how they are applied to layers.
 - [Adaption hints](/guides/user/profiles/layers/adaption-hints) - This guide explains what adaption hints are and how they help sharing profiles.
-- [Blend modes](/guides/user/profiles/layers/blend-modes) - This guide explains what blend modes are and how layers, folders and profiles mix with what's below them.
 
 Alternatively, head back to the guide overview on the [getting started](/guides/user) page.
 
@@ -23,8 +22,6 @@ Layers comprise the backbone of Artemis. Every lighting effect in Artemis is cau
 Inside a profile you can create **layers** that display certain effects or colors on a selection of LEDs of your choice. This can be any amount of LEDs, an entire device of even every device in the surface. 
 
 You can organize your layers into **folders**. This is especially helpful when creating large profiles, you can close a folder to hide all the children and keep an overview of your profile structure.
-
-Both layers and folders have a **blend mode** that decides how they mix with what's below them, you can read all about it in the [blend modes guide](/guides/user/profiles/layers/blend-modes).
 
 ## Brushes
 Every layer in Artemis has a **brush**. Brushes specify how a layer should generally behave, but also provide lots of options for you to change how you like. The default brush is the Solid Color brush, which as the name suggests, provides an area (either a rectangle or an ellipse) that is colored a certain color. Properies such as color, scale, width, opacity, and more can be found in the bottom left area of the profile editor (shown below).

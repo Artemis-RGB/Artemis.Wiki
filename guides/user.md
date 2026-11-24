@@ -2,10 +2,10 @@
 title: Introduction to Artemis
 description: An overview of the guides that'll teach you how to use Artemis
 published: true
-date: 2021-07-08T15:23:25.236Z
+date: 2025-10-13T08:50:02.080Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-05T08:37:12.284Z
+dateCreated: 2025-10-12T16:20:54.632Z
 ---
 
 # Introduction
@@ -35,7 +35,6 @@ These guides will teach you about the **basics of creating profiles**.
 - [Properties](/guides/user/profiles/layers/properties) - This guide will explain the properties each layer has.
 - [Brushes](/guides/user/profiles/layers/brushes) - This guide explains what brushes are and how they are applied to layers.
 - [Effects](/guides/user/profiles/layers/effects) - This guide explains what effects are and how they are applied to layers.
-- [Blend modes](/guides/user/profiles/layers/blend-modes) - This guide explains what blend modes are and how layers, folders and profiles mix with what's below them.
 
 ## Conditions
 These guides will teach you how to create **responsive layers**.

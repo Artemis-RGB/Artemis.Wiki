@@ -2,10 +2,10 @@
 title: Frequently Asked Questions
 description: A good place to find answers to some of the most common questions
 published: true
-date: 2025-02-16T20:37:15.896Z
+date: 2025-10-13T08:49:50.691Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-04T14:55:01.766Z
+dateCreated: 2025-10-12T16:20:35.653Z
 ---
 
 On this page we'll try to answer some of the most frequently asked questions. If your question is not answered here or you'd like further elaboration, feel free to reach out to us on [Discord](https://discord.gg/S3MVaC9).

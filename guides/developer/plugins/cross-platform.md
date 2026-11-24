@@ -2,10 +2,10 @@
 title: Creating Cross Platform Plugins
 description: A guide on how to create platform-specific services for your features
 published: true
-date: 2022-07-26T07:28:59.675Z
+date: 2025-10-13T08:50:32.614Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-26T06:55:48.501Z
+dateCreated: 2025-10-12T16:21:38.789Z
 ---
 
 # Introduction
