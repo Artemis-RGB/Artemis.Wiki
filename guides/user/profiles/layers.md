@@ -2,7 +2,7 @@
 title: Layers
 description: This guide explains what layers are and what they are used for.
 published: true
-date: 2025-10-13T08:51:09.194Z
+date: 2026-11-24T20:37:03.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-12T16:22:41.393Z
@@ -12,6 +12,7 @@ dateCreated: 2025-10-12T16:22:41.393Z
 - [Brushes](/guides/user/profiles/layers/brushes) - This guide explains what brushes are and how they are applied to layers.
 - [Effects](/guides/user/profiles/layers/effects) - This guide explains what effects are and how they are applied to layers.
 - [Adaption hints](/guides/user/profiles/layers/adaption-hints) - This guide explains what adaption hints are and how they help sharing profiles.
+- [Blend modes](/guides/user/profiles/layers/blend-modes) - This guide explains what blend modes are and how layers, folders and profiles mix with what's below them.
 
 Alternatively, head back to the guide overview on the [getting started](/guides/user) page.
 
